@@ -60,5 +60,5 @@ while game != 2:
     game = int(input("Voulez vous continuer à jouer ? Si oui tapez 1 sinon tapez 2 : "))
     #Error Message
     if game < 1 or game > 2:
-        print ('Bip bip bip - Ah, R2D2 te dit "Tu me fait chier !"')
+        print ('Bip bip bip - Ah, R2D2 te dit "Tu m'embêtes !"')
         break
