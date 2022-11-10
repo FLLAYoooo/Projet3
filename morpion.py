@@ -1,3 +1,6 @@
+#!/usr/bin/python3
+#coding=UTF-8
+
 """
 Module Doc
 """
@@ -82,7 +85,7 @@ def game():
     if victory:
         print("C'est le joueur",who,"qui a gagné la partie")
     else:
-        print("Egalitée")
+        print("Egalitee")
 
 
 def gamewin():
